@@ -26,3 +26,6 @@ console.log(0.2708333333333333 * 100);
 console.log(365/27);
 console.log(365%27);
 
+//Exercise 5
+
+console.log(Math.floor(Math.random() * 100) );
