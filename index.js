@@ -68,3 +68,13 @@ console.log('Morning alarm is set to: ', morningAlarm);
 
 var favoriteAnimal = 'Koala';
 console.log('My favorite animal: ' + favoriteAnimal);
+
+//Exercise 11
+
+var harryPotterFan = true;
+
+if (harryPotterFan) {
+  console.log('Mischeif managed.');
+} else {
+  console.log('I lead a muggle\'s life.');
+}
