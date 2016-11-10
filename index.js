@@ -47,3 +47,13 @@ console.log('But this just being short of jaundice all the time confused them.')
 
 var strength = '50,000 pounds';
 console.log('How much stuff can a variable hold?', strength);
+
+//Exercise 8
+
+var strength = '50,000 pounds';
+var age = 17;
+var hasPet = true;
+
+console.log(hasPet);
+console.log(age);
+console.log('How much stuff can a variable hold?', strength);
