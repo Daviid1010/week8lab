@@ -99,3 +99,20 @@ if (moonPhase === 'full') {
 } else {
   console.log('I swear I am not a werewolf...');
 }
+
+//Exercise 14
+
+var moonPhase = 'full';
+
+switch (moonPhase) {
+  case 'full' :
+    console.log('Howwwlll!!');
+    break;
+  case 'mostly full' :
+    console.log('Arms and Legs getting hairier');
+    break;
+  case 'mostly new' :
+    console.log('back on two feet');
+    break;
+                 }
+
